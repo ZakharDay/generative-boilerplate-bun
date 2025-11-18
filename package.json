@@ -1,5 +1,5 @@
 {
-  "name": "static-site-boilerplate-bun",
+  "name": "generative-boilerplate-bun",
   "scripts": {
     "dev": "bun bun.config.dev.js",
     "clean": "rm -rf dist",
